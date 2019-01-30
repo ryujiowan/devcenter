@@ -1,6 +1,6 @@
 ---
 # jp title missing
-title: Optimize your build times
+title: ビルド時間の改善方法
 menu:
   tips-and-tricks:
     weight: 10
