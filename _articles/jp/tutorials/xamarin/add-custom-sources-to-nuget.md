@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Add custom sources to NuGet
+title: NuGetへのカスタムソースの追加
 redirect_from:
 - "/xamarin/add-custom-sources-to-nuget/"
 - "/xamarin/add-custom-sources-to-nuget"
