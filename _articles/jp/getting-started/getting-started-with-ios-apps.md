@@ -1,6 +1,6 @@
 ---
 # jp title missing
-title: Getting started with iOS apps
+title: iOSアプリ開発の手順
 menu:
   getting-started:
     weight: 10
