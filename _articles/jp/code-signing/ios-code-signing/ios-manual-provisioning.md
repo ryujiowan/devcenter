@@ -1,5 +1,5 @@
 ---
-title: Managing iOS code signing files - manual provisioning　iOSコード署名ファイルの管理 - 手動によるプロビジョニング
+title: iOSコード署名ファイルの管理 - 手動によるプロビジョニング
 menu:
   ios-code-signing:
     weight: 4
