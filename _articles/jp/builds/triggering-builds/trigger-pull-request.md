@@ -1,5 +1,5 @@
 ---
-title: Pull Requestをトリガーにする
+title: Pull Requestをトリガーする
 menu:
   triggering-builds:
     weight: 3
