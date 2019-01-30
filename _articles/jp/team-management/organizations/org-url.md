@@ -1,6 +1,6 @@
 ---
 # jp title missing
-title: Finding the URL of your organizations
+title: 組織のURLの表示
 menu:
   organizations:
     weight: 4
