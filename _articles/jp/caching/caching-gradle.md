@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Caching Gradle
+title: Gradleのキャッシング
 menu:
   caching:
     weight: 3
