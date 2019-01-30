@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Creating a signed .ipa for Xamarin projects
+title: Xamarinプロジェクトの署名つきIPAの作成
 menu:
   ios-code-signing:
     weight: 6
