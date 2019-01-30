@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: ’Sign APK’ステップによるAndroidコード署名
+title: ’Sign APK’ステップを利用したAndroidコード署名
 redirect_from:
 - "/code-signing/android-code-signing/android-code-signing-using-bitrise-sign-APK-step/"
 menu:
