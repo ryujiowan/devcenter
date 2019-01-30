@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Organization FAQ
+title: 組織に関するFAQ
 menu:
   faq:
     weight: 11
