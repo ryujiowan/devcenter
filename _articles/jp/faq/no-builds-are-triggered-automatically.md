@@ -1,6 +1,6 @@
 ---
 # jp title missing
-title: Why isn't a build triggered when I push code into the repository?
+title: レポジトリにコードをプッシュしたのにビルドが実行されないのはなぜですか？
 menu:
   faq:
     weight: 8
