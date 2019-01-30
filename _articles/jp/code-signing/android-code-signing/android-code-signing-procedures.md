@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Android code signing procedures
+title: Androidのコード署名の手順
 menu:
   android-code-signing:
     weight: 1
