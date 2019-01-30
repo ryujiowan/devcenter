@@ -1,6 +1,6 @@
 ---
 # jp title missing
-title: Quick start guide to Bitrise
+title: Bitriseを使用するためのクイックスタートガイド
 redirect_from:
 - "/getting-started/adding-a-new-app/"
 - "/getting-started/create-your-first-app-on-bitrise/"
