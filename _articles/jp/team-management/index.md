@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Adding a new team member
+title: 新しいチームメンバーを追加する
 menu:
   team-management:
     weight: 1
