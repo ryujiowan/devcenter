@@ -1,5 +1,4 @@
 ---
-# jp title missing
 title: Mavenのキャッシュ
 menu:
   caching:
