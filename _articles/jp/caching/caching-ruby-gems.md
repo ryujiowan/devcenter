@@ -1,6 +1,6 @@
 ---
 # jp title missing
-title: Caching Ruby Gems
+title: Ruby Gemsのキャッシング
 menu:
   caching:
     weight: 5
