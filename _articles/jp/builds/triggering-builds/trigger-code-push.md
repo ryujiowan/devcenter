@@ -1,5 +1,5 @@
 ---
-title: コードプッシュによるビルドの実行
+title: コードプッシュによるビルドのトリガー
 menu:
   triggering-builds:
     weight: 2
