@@ -1,5 +1,4 @@
 ---
-# jp title missing
 title: Gradleのキャッシュ
 menu:
   caching:
