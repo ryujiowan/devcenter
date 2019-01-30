@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Frequent Android issues
+title: Androidにおいて頻繁に生じる問題の解決策
 redirect_from:
 - "/android/frequent-android-issues/"
 menu:
