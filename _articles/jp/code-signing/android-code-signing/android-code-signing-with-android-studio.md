@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Android code signing with Android Studio
+title: Android Studioを利用したAndroidコード署名
 menu:
   android-code-signing:
     weight: 3
