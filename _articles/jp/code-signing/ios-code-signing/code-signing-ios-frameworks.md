@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Code signing iOS frameworks
+title: iOSフレームワークを利用したiOSコード署名
 menu:
   ios-code-signing:
     weight: 12
