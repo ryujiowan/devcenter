@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Caching Maven
+title: Mavenのキャッシング
 menu:
   caching:
     weight: 4
