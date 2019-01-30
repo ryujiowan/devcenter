@@ -1,6 +1,6 @@
 ---
 # jp title missing
-title: Account Security
+title: アカウントセキュリティ
 menu:
   getting-started:
     weight: 6
