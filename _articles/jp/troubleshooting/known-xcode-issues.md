@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: List of known Xcode issues
+title: Xcodeにおける問題点のリスト
 redirect_from:
 - "/ios/known-xcode-issues/"
 menu:
