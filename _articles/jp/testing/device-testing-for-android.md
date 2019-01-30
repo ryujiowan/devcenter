@@ -1,5 +1,5 @@
 ---
-title: Androidのデバイステスト
+title: Androidデバイステスト
 menu:
   testing:
     weight: 5
