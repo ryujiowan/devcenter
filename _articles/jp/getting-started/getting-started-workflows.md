@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Workflows
+title: ワークフロー
 redirect_from:
 - "/getting-started/manage-your-workflow/"
 menu:
