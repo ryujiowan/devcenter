@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Frequent iOS issues
+title: iOSにおける問題の解決策
 redirect_from:
 - "/ios/frequent-ios-issues/"
 - "/ios/frequent-ios-issues/#works-in-local-but-not-on-bitriseio"
